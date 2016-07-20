@@ -27,3 +27,6 @@ All the code in this repository is released under the MIT license.
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
+
+If you find creditless content or protected by copyright, please let us know to
+put the things in order and according to laws.
