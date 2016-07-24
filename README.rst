@@ -5,7 +5,7 @@ Art Work
 Art Work Collection used in some SoftButterfly's projects.
 
 .. image::
-    https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000
+    https://img.shields.io/packagist/l/doctrine/orm.svg?maxAge=2592000&style=flat-square
     :alt: MIT License
     :target: https://github.com/SoftButterfly/art-work
 
@@ -20,8 +20,6 @@ Table of Contents
 Authors
 =======
 
-Authors
-
 * `@ZodiacFireworks <https://github.com/ZodiacFireworks>`_ (Martin Vuelta)
 
 
@@ -32,13 +30,13 @@ Suggestions, reported and documented issues, and pull request to contribute
 are welcome.
 
 To send a pull request the unique condition is the use of ``commit.template``
-file stored at ``settings`` directory. You can set this file as your git's
+file stored  at the root directory. You can set this file as your git's
 ``commit.template`` by following this commands
 
 .. code-block:: bash
 
     $ cd /path/to/art-work
-    $ git config --local commit.template `$(pwd)`/commit.template
+    $ git config --local commit.template $(pwd)/commit.template
 
 After that, you will need add your changes and commit in the following way
 
@@ -79,5 +77,6 @@ All the code in this repository is released under the MIT license.
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
-If you find creditless content or protected by copyright, please let us know to
-put the things in order and according to laws.
+If you find copyright protected content or without its respective credits,
+please let us know to give the respective credits and to put the things in
+order according to laws.

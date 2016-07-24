@@ -28,5 +28,6 @@ All the code in this repository is released under the MIT license.
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
-If you find creditless content or protected by copyright, please let us know to
-put the things in order and according to laws.
+If you find copyright protected content or without its respective credits,
+please let us know to give the respective credits and to put the things in
+order according to laws.
